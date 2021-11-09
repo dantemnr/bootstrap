@@ -2,6 +2,21 @@
     position: relative;
     padding-top: 10px;
     padding-bottom: 10px;
-    width: 30px;
-    height: 60px;
+    width: 35px;
+    height: 70px;
+}
+.maradona{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    padding-top: 10px;
+}
+.cet{
+    height: 100px;
+    width: 100px;
+    padding-top: 10px;
+}
+nav a {
+    font-size: 20px;
+    padding-top: 10rem;
 }
